@@ -16,6 +16,7 @@ import java.util.InputMismatchException;
 /** Server class
  *
  * @author Kerly Titus
+ * @modified by Yushan Ai
  */
 import java.util.concurrent.*;
 public class Server extends Thread {
