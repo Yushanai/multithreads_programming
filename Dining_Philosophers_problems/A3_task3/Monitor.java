@@ -6,6 +6,7 @@ import java.util.concurrent.locks.Lock;
  * To synchronize dining philosophers.
  *
  * @author Serguei A. Mokhov, mokhov@cs.concordia.ca
+  * @modified by Yushan Ai
  */
 public class Monitor
 {
