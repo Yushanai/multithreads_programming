@@ -4,6 +4,7 @@ import java.util.Scanner;
  * Class DiningPhilosophers The main starter.
  *
  * @author Serguei A. Mokhov, mokhov@cs.concordia.ca
+  * @modified by Yushan Ai
  */
 public class DiningPhilosophers {
 	/*
