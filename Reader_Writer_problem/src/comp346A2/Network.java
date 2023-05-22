@@ -9,6 +9,7 @@ import java.util.concurrent.*;
 /** Network class
  *
  * @author Kerly Titus
+ * @modified by Yushan Ai
  */
 public class Network extends Thread {
     
