@@ -15,6 +15,7 @@ import java.util.InputMismatchException;
 /** Client class
  *
  * @author Kerly Titus
+ * @modified by Yushan Ai
  */
 
 public class Client extends Thread { 
