@@ -7,6 +7,7 @@ package comp346A3;
  * Outlines main subrutines of our virtual philosopher.
  *
  * @author Serguei A. Mokhov, mokhov@cs.concordia.ca
+  * @modified by Yushan Ai
  */
 public class Philosopher extends BaseThread
 {
