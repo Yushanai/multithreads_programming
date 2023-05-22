@@ -10,6 +10,7 @@ package comp346A2;
 /** Transactions class
  *
  * @author Kerly Titus
+  * @modified by Yushan Ai
  */
 public class Transactions {
     
