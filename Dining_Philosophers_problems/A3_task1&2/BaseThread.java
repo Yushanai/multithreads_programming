@@ -16,6 +16,7 @@ import java.util.Random;
  * $Last Revision Date: 2021/03/22 $
  *
  * @author Serguei A. Mokhov, mokhov@cs.concordia.ca
+  * @modified by Yushan Ai
  */
 public class BaseThread extends Thread
 {
