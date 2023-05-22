@@ -8,6 +8,7 @@ package comp346A2;
 /** Accounts class
  *
  * @author Kerly Titus
+ * @modified by Yushan Ai
  */
 public class Accounts {
     
